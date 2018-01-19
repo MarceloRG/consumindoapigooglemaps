@@ -1,0 +1,26 @@
+body {
+    background-color: #141414;
+    color: #ffffff;
+    padding-top: 5rem;
+}
+
+.navbar-nav .nav-item a {
+    color: #ffffff !important;
+}
+
+.bg-dark {
+    background-color: #0a1016 !important;
+}
+
+.dev-title {
+    border-bottom: 2px solid #e50914;
+    margin-bottom: 20px;
+}
+
+.map-container #map {
+    height: 400px;
+    max-height: 400px;
+    width: 100%;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
